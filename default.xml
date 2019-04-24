@@ -2,6 +2,5 @@
 <manifest>
   <remote  name="github" fetch="ssh://git@github.com/" />  
   <include name="github.xml" />
-  <include name="local.xml"/>
 
 </manifest>
