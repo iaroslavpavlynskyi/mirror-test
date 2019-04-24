@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github" fetch="ssh://git@github.com/" />
+  <remote  name="gitea"  fetch="ssh://git@abpr-s.pub.globallogic.com:2222/ADIT/" />
+  
+  <include name="aosp.xml" />
+  <include name="gitea.xml" />
+  <include name="github.xml" />
+
+</manifest>

@@ -1,0 +1,8 @@
+<manifest>
+<remote  name="aosp" 
+           fetch="https://android.googlesource.com/" />
+  <default revision="master"
+           remote="aosp" />
+
+  <project name="platform/build" />
+</manifest>
