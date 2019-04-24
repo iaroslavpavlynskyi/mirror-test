@@ -2,8 +2,8 @@
 <manifest>
 
 <!-- adit projects -->
-  <project path="github/ADIT-JV/optee_client"                       name="ADIT-JV/optee_client"                       groups="github" remote="github" revision="rcar3_master"      force-path="true" />
+  <project path="github/optee_client"                       name="ADIT-JV/optee_client"                       groups="github" remote="github" revision="rcar3_master"      force-path="true" />
 <!-- forks -->
-  <project path="github/AleksandrBulyshchenko/optee_client"         name="AleksandrBulyshchenko/optee_client"         groups="github" remote="github" revision="rcar3_master"      force-path="true" />
+  <project path="github/optee_client"         name="AleksandrBulyshchenko/optee_client"         groups="github" remote="github" revision="rcar3_master"      force-path="true" />
   
 </manifest>
