@@ -2,7 +2,7 @@
 <manifest>
 
 <!-- adit projects -->
-  <project path="github/optee_client"         name="ADIT-JV/optee_client"                       groups="github-adit" remote="github" revision="rcar3_master"      force-path="true" />
+
 <!-- forks -->
   <project path="github/optee_client"         name="AleksandrBulyshchenko/optee_client"         groups="github" remote="github" revision="rcar3_master"      force-path="true" />
   
