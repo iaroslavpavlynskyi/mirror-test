@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="github" fetch="ssh://git@github.com/" />  
+  <remote  name="adit" fetch="ssh://git@github.com/ADIT-JV/" />  
+  <remote  name="gl-a" fetch="ssh://git@github.com/AleksandrBulyshchenko/"/>
   <include name="github.xml" />
 
 </manifest>
