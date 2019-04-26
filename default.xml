@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="adit" fetch="ssh://git@github.com/ADIT-JV/" />  
-  <remote  name="gl-a" fetch="ssh://git@github.com/AleksandrBulyshchenko/"/>
-  <include name="github.xml" />
-
+  <remote  name="gitea"  fetch="ssh://git@abpr-s.pub.globallogic.com:2222/ADIT/" />
+  <include name="gitea.xml"/>
+  <include name="aosp.xml"/>
 </manifest>

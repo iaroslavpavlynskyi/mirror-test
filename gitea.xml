@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="gitea/frameworks-av" name="frameworks-av" groups="gl" remote="gitea" revision="adit_master_rcar3" force-path="true" />
+  <project path="gitea/bionic" name="bionic" groups="gl" remote="gitea" revision="adit_master_rcar3" force-path="true" />
 </manifest>
