@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="github/ADIT-JV/linux-v4.14"                        name="ADIT-JV/linux-v4.14"                        groups="github" remote="github" revision="staging-414"       force-path="true" />
+	<project path="linux-v4.14"                        name="ADIT-JV/linux-v4.14"                        groups="github" remote="git@172.28.184.28:/data/test/github/ADIT-JV/linux-v4.14" revision="staging-414"       force-path="true" />
 </manifest>
