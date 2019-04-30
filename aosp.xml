@@ -1,5 +1,5 @@
 <manifest>
-<remote  name="aosp" 
+  <remote  name="aosp" 
            fetch="https://android.googlesource.com/" />
   <default revision="master"
            remote="aosp" />

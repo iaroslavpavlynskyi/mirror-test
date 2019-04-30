@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remove-poject name="optee_client" />
-<!-- adit projects -->
- <!--project path="github/optee_client"          name="optee_client"         groups="adit" remote="adit" revision="rcar3_master"    force-path="true"/-->
-<!-- forks -->
- <!--project path="github/optee_client"         name="optee_client"         groups="gl-a" remote="gl-a" revision="rcar3_master"      force-path="true" /-->
-  
+	<project path="github/ADIT-JV/linux-v4.14"                        name="ADIT-JV/linux-v4.14"                        groups="github" remote="github" revision="staging-414"       force-path="true" />
 </manifest>

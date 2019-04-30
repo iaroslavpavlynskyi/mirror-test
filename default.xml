@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="gitea"  fetch="ssh://git@abpr-s.pub.globallogic.com:2222/ADIT/" />
-  <include name="gitea.xml"/>
+  <remote  name="github" fetch="ssh://git@github.com/" />
+  <include name="github.xml"/>
   <include name="aosp.xml"/>
 </manifest>
