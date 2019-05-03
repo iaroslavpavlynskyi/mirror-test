@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-        <project path="manifest/manifest-test"				  name="manifest/manifest-test"		groups="github"			remote="github" 	revision="github-test"		force-path="true"/>
-	<project path="github/ADIT-JV/linux-v4.14"                        name="ADIT-JV/linux-v4.14"                        groups="github" remote="github" revision="staging-414"       force-path="true" />
+        <project path="iaroslavpavlynskyi/mirror-test"  		  name="iaroslavpavlynskyi/mirror-test"		groups="github"	remote="github" revision="github-test"	force-path="true"/>
+	<project path="github/ADIT-JV/linux-v4.14"                        name="ADIT-JV/linux-v4.14"                    groups="github" remote="github" revision="staging-414"  force-path="true" />
 </manifest>
