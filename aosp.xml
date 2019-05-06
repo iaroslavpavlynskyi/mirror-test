@@ -4,4 +4,5 @@
   <default revision="master"
            remote="aosp" />
   <project name="platform/bionic" />
+  <project name="platform/art" />
 </manifest>
