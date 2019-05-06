@@ -2,4 +2,11 @@
 <manifest>
         <project path="github/iaroslavpavlynskyi/mirror-test"  		  name="iaroslavpavlynskyi/mirror-test"		groups="github"	remote="github" revision="github-test"	force-path="true"/>
 	<project path="github/ADIT-JV/linux-v4.14"                        name="ADIT-JV/linux-v4.14"                    groups="github" remote="github" revision="staging-414"  force-path="true" />
+	<project path="github/ADIT-JV/android-rcar3-bsp"                  name="ADIT-JV/android-rcar3-bsp"                  groups="github" remote="github" revision="adit_master_rcar3" force-path="true" />
+        <project path="github/ADIT-JV/arm-trusted-firmware-rcar3"         name="ADIT-JV/arm-trusted-firmware-rcar3"         groups="github" remote="github" revision="staging-rcar3"     force-path="true" />
+        <project path="github/ADIT-JV/u-boot-rcar3"                       name="ADIT-JV/u-boot-rcar3"                       groups="github" remote="github" revision="staging-2015.04"   force-path="true" />
+        <project path="github/ADIT-JV/optee_client"                       name="ADIT-JV/optee_client"                       groups="github" remote="github" revision="rcar3_master"      force-path="true" />
+        <project path="github/ADIT-JV/optee_os"                           name="ADIT-JV/optee_os"                           groups="github" remote="github" revision="adit_master_rcar3" force-path="true" />
+        <project path="github/ADIT-JV/android-rcar3-vendor"               name="ADIT-JV/android-rcar3-vendor"               groups="github" remote="github" revision="rcar3-android-p"   force-path="true" />
+        <project path="github/ADIT-JV/linux-gen4"                         name="ADIT-JV/linux-gen4"                         groups="github" remote="github" revision="staging-49"        force-path="true" /> 
 </manifest>
