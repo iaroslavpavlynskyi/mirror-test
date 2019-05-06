@@ -1,9 +1,3 @@
-echo "> Initialization of mirror repo"
-repo init -u https://github.com/iaroslavpavlynskyi/mirror-test.git -b github-test --mirror
-
-echo "> Sync repo"
-repo sync
-
 echo "> Add remotes for each ADIT-JV project"
 
 git -C github/ADIT-JV/optee_client.git remote add gl_a ssh://git@github.com/AleksandrBulyshchenko/optee_client --mirror=fetch
